@@ -5,8 +5,10 @@
 
 
 
+Beginners mindset and curiosity 💖
+
 - 🔭  I’m currently working on: [Takeoff](https://github.com/adrianavv1/Takeoff)
-- 🌱  I’m currently learning: Python
+- 🌱  I’m currently learning: UX Design through Grow with Google; & Python
 - How to reach me: 
 - 📫 Email: adrianavaldi12@gmail.com
 - 👩‍💻  Technologies I use: HTML, CSS, Javascript, Python, React, Redux, JSON, Web APIs, Express, MongoDB, SQL
