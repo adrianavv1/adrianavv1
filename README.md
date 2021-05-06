@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Adriana-@Adrianavv1  
 
-<!--
-**adrianavv1/adrianavv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src='img/githubbanner.png' width="780"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭  I’m currently working on: [Takeoff](https://github.com/adrianavv1/Takeoff)
+- 🌱  I’m currently learning: Python
+- 📫  How to reach me: adrianavaldi12@gmail.com
+- 💡 My [LinkedIn](https://www.linkedin.com/in/adrianavv/)
+- 👩‍💻  Technologies I use: HTML, CSS, Javascript, Python, React, Redux, JSON, Web APIs, Express, MongoDB, SQL
+- ✨  Fun fact: I am a bookworm 📔 
