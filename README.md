@@ -1,7 +1,7 @@
 ### Hi I'm Adriana-@Adrianavv1  
 
 
-<img src='img/githubbanner.png' width="800" height="300"> 
+<img src='img/githubbanner.png' width="800"> 
 
 
 
