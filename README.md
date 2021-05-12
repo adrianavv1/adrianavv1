@@ -11,7 +11,7 @@ Beginners mindset and curiosity 💖
 - 🌱  I’m currently learning: UX Design through Grow with Google; & Python
 - How to reach me: 
 - 📫 Email: adrianavvaldi12@gmail.com
-- 👩‍💻  Technologies I use: HTML, CSS, Javascript, Python, React, Redux, JSON, Web APIs, Express, MongoDB, SQL
+- 👩‍💻  Technologies I use: HTML, CSS, Javascript, Python, React, JSON, Web APIs, Express, MongoDB, SQL
 - ✨  Fun fact: I am a bookworm 📔 
 
 
