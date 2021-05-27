@@ -15,5 +15,5 @@ Beginners mindset and curiosity 💖
 - ✨  Fun fact: I am a bookworm 📔 
 
 
-🏡 [portfolio](https://adrianavv1.github.io/automatic-pancake/) |  
+🏡 [portfolio](https://adrianavv1.github.io/My-portfolio/) |  
 💡 [LinkedIn](https://www.linkedin.com/in/adrianavv/)
