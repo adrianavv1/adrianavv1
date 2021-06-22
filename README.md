@@ -1,13 +1,13 @@
 ### Hi I'm Adriana-@Adrianavv1  
 
 
-<img src='img/githubbanner.png' width="900"> 
+<img src='img/newbanner.png' width="900"> 
 
 
 
 Beginners mindset and curiosity 💖
 
-- 🔭  I’m currently working on: [Facebook Clone2.0](https://github.com/adrianavv1/fb-clone-2-yt)
+- 🔭  I’m currently working on: [Facebook Clone2.0](https://github.com/adrianavv1/facebook2.0)
 - 🌱  I’m currently learning: UX Design through Grow with Google; & Python
 - How to reach me: 
 - 📫 Email: adrianavvaldi12@gmail.com
