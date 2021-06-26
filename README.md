@@ -8,7 +8,7 @@
 Beginners mindset and curiosity 💖
 
 - 🔭  I’m currently working on: [Facebook Clone2.0](https://github.com/adrianavv1/facebook2.0)
-- 🌱  I’m currently learning: UX Design through Grow with Google; & Python
+- 🌱  I’m currently learning: AWS Machine Learning Engineer Nanodegree Program
 - How to reach me: 
 📫 Email: adrianavvaldi12@gmail.com
 - 👩‍💻  Technologies I use: HTML, CSS, Tailwind CSS, Material UI, Next JS, Javascript, React, JSON, Web APIs, Express, MongoDB, SQL
